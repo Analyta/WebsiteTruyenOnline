@@ -32,6 +32,3 @@ WebsiteTruyenOnline là nền tảng đọc truyện online, cho phép người 
 3. Khôi phục các gói NuGet.
 4. Cập nhật chuỗi kết nối CSDL trong file `Web.config` nếu cần.
 5. Build và chạy project.
-
-## 6. Liên hệ
-Nếu có thắc mắc hoặc cần hỗ trợ, vui lòng liên hệ qua GitHub: [https://github.com/Analyta/WebsiteTruyenOnline](https://github.com/Analyta/WebsiteTruyenOnline) 
