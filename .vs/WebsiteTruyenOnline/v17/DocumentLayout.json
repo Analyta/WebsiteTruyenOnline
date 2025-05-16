@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DA_CSN\\Truy\u1EC7n online\\Code\\WebsiteTruyenOnline\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF913C2D-E862-415C-AF00-66ACFEE2F732}|WebsiteTruyenOnline\\WebsiteTruyenOnline.csproj|d:\\da_csn\\truy\u1EC7n online\\code\\websitetruyenonline\\websitetruyenonline\\areas\\admin\\views\\story\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF913C2D-E862-415C-AF00-66ACFEE2F732}|WebsiteTruyenOnline\\WebsiteTruyenOnline.csproj|solutionrelative:websitetruyenonline\\areas\\admin\\views\\story\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF913C2D-E862-415C-AF00-66ACFEE2F732}|WebsiteTruyenOnline\\WebsiteTruyenOnline.csproj|d:\\da_csn\\truy\u1EC7n online\\code\\websitetruyenonline\\websitetruyenonline\\areas\\admin\\views\\story\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF913C2D-E862-415C-AF00-66ACFEE2F732}|WebsiteTruyenOnline\\WebsiteTruyenOnline.csproj|solutionrelative:websitetruyenonline\\areas\\admin\\views\\story\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF913C2D-E862-415C-AF00-66ACFEE2F732}|WebsiteTruyenOnline\\WebsiteTruyenOnline.csproj|d:\\da_csn\\truy\u1EC7n online\\code\\websitetruyenonline\\websitetruyenonline\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF913C2D-E862-415C-AF00-66ACFEE2F732}|WebsiteTruyenOnline\\WebsiteTruyenOnline.csproj|solutionrelative:websitetruyenonline\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DA_CSN\\Truy\u1EC7n online\\Code\\WebsiteTruyenOnline\\WebsiteTruyenOnline\\Areas\\admin\\Views\\Story\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebsiteTruyenOnline\\Areas\\admin\\Views\\Story\\Index.cshtml",
+              "ToolTip": "D:\\DA_CSN\\Truy\u1EC7n online\\Code\\WebsiteTruyenOnline\\WebsiteTruyenOnline\\Areas\\admin\\Views\\Story\\Index.cshtml",
+              "RelativeToolTip": "WebsiteTruyenOnline\\Areas\\admin\\Views\\Story\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T16:33:13.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\DA_CSN\\Truy\u1EC7n online\\Code\\WebsiteTruyenOnline\\WebsiteTruyenOnline\\Areas\\admin\\Views\\Story\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebsiteTruyenOnline\\Areas\\admin\\Views\\Story\\Edit.cshtml",
+              "ToolTip": "D:\\DA_CSN\\Truy\u1EC7n online\\Code\\WebsiteTruyenOnline\\WebsiteTruyenOnline\\Areas\\admin\\Views\\Story\\Edit.cshtml",
+              "RelativeToolTip": "WebsiteTruyenOnline\\Areas\\admin\\Views\\Story\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T16:32:47.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DA_CSN\\Truy\u1EC7n online\\Code\\WebsiteTruyenOnline\\WebsiteTruyenOnline\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebsiteTruyenOnline\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\DA_CSN\\Truy\u1EC7n online\\Code\\WebsiteTruyenOnline\\WebsiteTruyenOnline\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebsiteTruyenOnline\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAACwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T13:04:36.63Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
